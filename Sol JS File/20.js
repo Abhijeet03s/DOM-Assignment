@@ -1,0 +1,1 @@
+document.querySelector(".section-box .desc").style.color = "orange";
